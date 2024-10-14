@@ -8,4 +8,4 @@ This GitHub profile is dedicated to showcasing various student and personal proj
 
 ### 🔗 Connect with me:
 - [LinkedIn](www.linkedin.com/in/julian-h-03708219b)
-- [Kaggle]([your-kaggle-url](https://www.kaggle.com/julianhutin))
+- [Kaggle](https://www.kaggle.com/julianhutin)
